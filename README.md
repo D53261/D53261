@@ -5,7 +5,8 @@
 [<img src="https://img.shields.io/badge/linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-142962274/)
 
 - 🏠 Moro em Londrina, no Paraná
-- 👨‍🎓 Estou no 3º ano do ensino médio integrado ao curso técnico de computação no Sesc/Senac Norte de Londrina
+- 👨‍🎓 Estou no 3º ano do ensino médio integrado ao curso técnico de computação no Sesc/Senac Norte de Londrina, Alem de fazer curso autodidata na plataforma online Alura
+- 🗣 Ingles intermediário
 - 👨‍💻 Busco cursar Ciencia de dados e Inteligência artificial na Universidade estadual de Londrina(UEL)
 - 🧠 Atualmente fazendo o curso empregatech de formação em Java ofertado pelo Senac Centro de Londrina
 - 🤔 Buscando sempre conhecer mais da área de programação e a area Tech no geral
