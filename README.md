@@ -31,3 +31,4 @@
 ![Figma(Intermediário)](https://img.shields.io/badge/-figma(Intermediário)-000000?style=flat&logo=figma)&nbsp;
 ![MySql(Básico)](https://img.shields.io/badge/-MySql(Básico)-000000?style=flat&logo=mysql)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000000?style=flat&logo=jupyter)&nbsp;
+![JavaScript(Básico)](https://img.shields.io/badge/-JavaScript(Básico)-000000?style=flat&logo=javascript)&nbsp;
