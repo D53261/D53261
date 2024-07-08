@@ -8,10 +8,8 @@
 - 👨‍🎓 Estou no 3º ano do ensino médio integrado ao curso técnico de computação no Sesc/Senac Norte de Londrina, Alem de fazer curso autodidata na plataforma online Alura
 - 🗣 Ingles intermediário
 - 👨‍💻 Busco cursar Ciencia de dados e Inteligência artificial na Universidade estadual de Londrina(UEL)
-- 🧠 Atualmente fazendo o curso empregatech de formação em Java ofertado pelo Senac Centro de Londrina
 - 🤔 Buscando sempre conhecer mais da área de programação e a area Tech no geral
 - 👔 Inexperiente na area no momento mas buscando emprego e experiência a todo momento
-- OBS: os repositórios que contenham nome referente a uma data(exemplo: 24.05.24) são parte do portifólio do curso Empregatech de Java do Senac Centro de Londrina
 
 ### ⚙️ &nbsp;Analises do Github
 
