@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=38&left=true&vCenter=true&width=1000&lines=Meu+nome+é+Danilo+Ribeiro;Tenho+16+anos;E+esse+é+meu+Portifólio;Bem+vindo(a))](https://git.io/typing-svg)
 
-[<img src="https://img.shields.io/badge/linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-142962274/)
+[<img src="https://img.shields.io/badge/Linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-142962274/)
 
 - 🏠 Moro em Londrina, no Paraná
 - 👨‍🎓 Estou no 3º ano do ensino médio integrado ao curso técnico de computação no Sesc/Senac Norte de Londrina, Alem de fazer curso autodidata na plataforma online Alura
