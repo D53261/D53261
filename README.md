@@ -22,12 +22,12 @@
 
 ### 🖥 &nbsp;Conhecimentos na area: 
 
-![Java(Aprendendo)](https://img.shields.io/badge/-Java(Aprendendo)-000000?style=flat&logo=Java)&nbsp;
-![Python(Intermediário)](https://img.shields.io/badge/-Python(Intermediário)-000000?style=flat&logo=python)&nbsp;
-![HTML(Básico)](https://img.shields.io/badge/-HTML(Básico)-000000?style=flat&logo=HTML5)&nbsp;
-![CSS(Básico)](https://img.shields.io/badge/-CSS(Básico)-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma(Intermediário)](https://img.shields.io/badge/-figma(Intermediário)-000000?style=flat&logo=figma)&nbsp;
-![MySql(Básico)](https://img.shields.io/badge/-MySql(Básico)-000000?style=flat&logo=mysql)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-000000?style=flat&logo=figma)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000000?style=flat&logo=jupyter)&nbsp;
-![JavaScript(Básico)](https://img.shields.io/badge/-JavaScript(Básico)-000000?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
