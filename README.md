@@ -1,6 +1,6 @@
 # Olá e bem vindos ao meu GitHub <img src="https://user-images.githubusercontent.com/54871373/218266461-db91e064-5ffd-4976-afa1-8d6f679464cc.gif" width="30">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=38&left=true&vCenter=true&width=1000&lines=Meu+nome+é+Danilo+Ribeiro;Tenho+16+anos;E+esse+é+meu+Portifólio;Bem+vindo(a))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=38&left=true&vCenter=true&width=1000&lines=Meu+nome+é+Danilo+Ribeiro;Tenho+17+anos;E+esse+é+meu+Portifólio;Bem+vindo(a))](https://git.io/typing-svg)
 
 [<img src="https://img.shields.io/badge/Linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-142962274/)
 
@@ -29,5 +29,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-000000?style=flat&logo=figma)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=mysql)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000000?style=flat&logo=jupyter)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
