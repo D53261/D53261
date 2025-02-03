@@ -5,9 +5,9 @@
 [<img src="https://img.shields.io/badge/Linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-142962274/)
 
 - 🏠 Moro em Londrina, no Paraná
-- 👨‍🎓 Tenho concluído o ensino médio integrado ao curso técnico de computação no Sesc/Senac Norte de Londrina, Além de fazer curso autodidata na plataforma online Alura
+- 👨‍🎓 Tenho concluído o ensino médio integrado ao curso técnico em informática para internet no Sesc/Senac Norte de Londrina, Além de fazer curso autodidata na plataforma online Alura e Dio
 - 🗣 Ingles intermediário
-- 👨‍💻 Irei me matricular em Engenharia de Software ou ADS em breve
+- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas na UniCesumar Londrina-PR
 - 🤔 Buscando sempre conhecer mais da área de programação e a area Tech no geral
 - 👔 Sem experiência profissional no momento mas buscando emprego e experiência a todo momento
 
@@ -24,6 +24,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
