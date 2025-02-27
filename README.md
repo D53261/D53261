@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=38&left=true&vCenter=true&width=1000&lines=Meu+nome+é+Danilo+Ribeiro;Tenho+17+anos;E+esse+é+meu+Portifólio;Bem+vindo(a))](https://git.io/typing-svg)
 
-[<img src="https://img.shields.io/badge/Linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-142962274/)
+[<img src="https://img.shields.io/badge/Linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/)
 
 - 🏠 Moro em Londrina, no Paraná
 - 👨‍🎓 Tenho concluído o ensino médio integrado ao curso técnico em informática para internet no Sesc/Senac Norte de Londrina, Além de fazer curso autodidata na plataforma online Alura e Dio
