@@ -22,9 +22,10 @@
 
 ### 🖥 &nbsp;Conhecimentos na area: 
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
