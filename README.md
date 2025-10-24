@@ -5,11 +5,11 @@
 [<img src="https://img.shields.io/badge/Linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/)
 
 - 🏠 Moro em Londrina, no Paraná
-- 👨‍🎓 Tenho concluído o ensino médio integrado ao curso técnico em informática para internet no Sesc/Senac Norte de Londrina, Além de fazer curso autodidata na plataforma online Alura e Dio
-- 🗣 Ingles intermediário
+- 👨‍🎓 Tenho concluído o ensino médio integrado ao curso técnico em informática para internet no Sesc/Senac Norte de Londrina, Além de fazer curso autodidata na plataforma online Alura, Dio e Udemy
+- 🗣 Ingles intermediário para avançado
 - 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas na UniCesumar Londrina-PR
 - 🤔 Buscando sempre conhecer mais da área de programação e a area Tech no geral
-- 👔 Sem experiência profissional no momento mas buscando emprego e experiência a todo momento
+- 👔 Atualmente sou estagiário na empresa Uniware Consultoria em Informática
 
 ### ⚙️ &nbsp;Analises do Github
 
